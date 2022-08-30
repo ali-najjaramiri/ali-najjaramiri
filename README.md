@@ -1,4 +1,4 @@
-### Hi there 👋
+- 🔭 I’m currently working on silicon photonics device design by using the state-of-art optimization algorithms. 
 
 <!--
 **ali-najjaramiri/ali-najjaramiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
