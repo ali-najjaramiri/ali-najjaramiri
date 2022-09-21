@@ -8,7 +8,7 @@ I'm experienced in:
 
 - familiar with the semiconductor fabrication process and passing a short tutorial in the university's cleanroom
 - 📫 How to reach me: aamiri20@ku.edu.tr
-
+I am working on two main repos as my research projects named 'photonic-neural-network' and 'siphotonics'. They are private repos and just PAL members have access to them. However, they would be public in the near future.
 <!--
 **ali-najjaramiri/ali-najjaramiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
