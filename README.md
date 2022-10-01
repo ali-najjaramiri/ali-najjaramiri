@@ -3,10 +3,9 @@
 I'm experienced in:
 - --> optimization methods and algorithms by using state-of-art machine learning frameworks such as Trax and Pytorch
 - --> software tools commonly used in photonics design, simulation, and data analysis, such as Lumerical/FDTD, Matlab, and Python
-- --> design and tape-out using commercial silicon photonics foundry PDKs (Ipkiss, Gdstk, Klayout)
+- --> design and tape-out using layout platforms such as Ipkiss, Gdstk, Klayout
 - --> testing and measuring the silicon photonics fabricated devices
 
-- familiar with the semiconductor fabrication process and passing a short tutorial in the university's cleanroom
 - I am working on two main repos as my research projects named 'photonic-neural-network' and 'siphotonics'. They are private repos and just PAL members have access to them. However, they would be public in the near future.
 - 📫 How to reach me: aamiri20@ku.edu.tr
 <!--
