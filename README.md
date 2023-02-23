@@ -1,12 +1,12 @@
-- 🔭 I’m currently working on silicon photonics device design by using the state-of-art optimization algorithms. 
+- 🔭 I’m currently working on silicon photonics device design by using state-of-the-art optimization algorithms. 
 
 I'm experienced in:
-- --> optimization methods and algorithms by using state-of-art machine learning frameworks such as Trax and Pytorch
+- --> optimization methods and algorithms by using state-of-the-art machine learning frameworks such as Trax and Pytorch
 - --> software tools commonly used in photonics design, simulation, and data analysis, such as Lumerical/FDTD, Matlab, and Python
 - --> design and tape-out using layout platforms such as Ipkiss, Gdstk, Klayout
 - --> testing and measuring the silicon photonics fabricated devices
 
-- I am working on two main repos as my research projects named 'photonic-neural-network' and 'siphotonics'. They are private repos and just PAL members have access to them. However, they would be public in the near future.
+- I am working on two main repos as my research projects named 'Deep-Photonic-Network' and 'siphotonics'. They are private repos and just PAL members have access to them. However, they would be public in the near future.
 - 📫 How to reach me: aamiri20@ku.edu.tr
 <!--
 **ali-najjaramiri/ali-najjaramiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
